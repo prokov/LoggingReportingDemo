@@ -1,0 +1,45 @@
+2020-07-31 12:26:42.308 [TestNG-test=List CRUD Operations-1] INFO  TestLogger - Some info
+2020-07-31 12:26:42.310 [TestNG-test=List CRUD Operations-1] DEBUG TestLogger - Some debug info
+2020-07-31 12:26:42.310 [TestNG-test=List CRUD Operations-1] ERROR TestLogger - Some error
+2020-07-31 12:29:48.707 [main] INFO  TestLogger - Some info
+2020-07-31 12:29:48.709 [main] DEBUG TestLogger - Some debug info
+2020-07-31 12:29:48.709 [main] ERROR TestLogger - Some error
+2020-07-31 12:30:04.818 [main] INFO  TestLogger - Some info
+2020-07-31 12:30:04.820 [main] DEBUG TestLogger - Some debug info
+2020-07-31 12:30:04.820 [main] ERROR TestLogger - Some error
+2020-07-31 12:31:01.626 [TestNG-test=List CRUD Operations-1] INFO  TestLogger - Some info
+2020-07-31 12:31:01.628 [TestNG-test=List CRUD Operations-1] DEBUG TestLogger - Some debug info
+2020-07-31 12:31:01.628 [TestNG-test=List CRUD Operations-1] ERROR TestLogger - Some error
+2020-07-31 12:33:18.233 [main] INFO  TestLogger - Some info
+2020-07-31 12:33:18.238 [main] DEBUG TestLogger - Some debug info
+2020-07-31 12:33:18.238 [main] ERROR TestLogger - Some error
+2020-07-31 12:33:33.944 [TestNG-test=Test Reporting, logging and TestNG demo-1] INFO  TestLogger - Some info
+2020-07-31 12:33:33.947 [TestNG-test=Test Reporting, logging and TestNG demo-1] DEBUG TestLogger - Some debug info
+2020-07-31 12:33:33.947 [TestNG-test=Test Reporting, logging and TestNG demo-1] ERROR TestLogger - Some error
+2020-07-31 12:56:01.809 [TestNG-test=Test Reporting, logging and TestNG demo-1] INFO  TestLogger - Some info
+2020-07-31 12:56:01.811 [TestNG-test=Test Reporting, logging and TestNG demo-1] DEBUG TestLogger - Some debug info
+2020-07-31 12:56:01.811 [TestNG-test=Test Reporting, logging and TestNG demo-1] ERROR TestLogger - Some error
+2020-07-31 13:01:05.006 [main] ERROR TestReporting - This is is the failed test example
+2020-07-31 13:01:05.020 [main] INFO  TestReporting - This is is the passed test example
+2020-07-31 13:03:19.955 [main] ERROR TestReporting - This is is the failed test example
+2020-07-31 13:03:19.969 [main] INFO  TestReporting - This is is the passed test example
+2020-07-31 13:03:59.397 [TestNG-test=Test Reporting, logging and TestNG demo-2] ERROR TestReporting - This is is the failed test example
+2020-07-31 13:03:59.397 [TestNG-test=Test Reporting, logging and TestNG demo-1] INFO  TestLogger - Some info
+2020-07-31 13:03:59.400 [TestNG-test=Test Reporting, logging and TestNG demo-1] DEBUG TestLogger - Some debug info
+2020-07-31 13:03:59.400 [TestNG-test=Test Reporting, logging and TestNG demo-1] ERROR TestLogger - Some error
+2020-07-31 13:03:59.407 [TestNG-test=Test Reporting, logging and TestNG demo-2] INFO  TestReporting - This is is the passed test example
+2020-07-31 13:10:48.473 [TestNG-test=Test Reporting, logging and TestNG demo-1] INFO  TestLogger - Some info
+2020-07-31 13:10:48.473 [TestNG-test=Test Reporting, logging and TestNG demo-2] ERROR TestReporting - This is is the failed test example
+2020-07-31 13:10:48.475 [TestNG-test=Test Reporting, logging and TestNG demo-1] DEBUG TestLogger - Some debug info
+2020-07-31 13:10:48.476 [TestNG-test=Test Reporting, logging and TestNG demo-1] ERROR TestLogger - Some error
+2020-07-31 13:10:48.482 [TestNG-test=Test Reporting, logging and TestNG demo-2] INFO  TestReporting - This is is the passed test example
+2020-07-31 13:46:53.345 [TestNG-test=Test Reporting, Logging and TestNG demo-1] INFO  TestLogger - Some info
+2020-07-31 13:46:53.345 [TestNG-test=Test Reporting, Logging and TestNG demo-2] ERROR TestReporting - This is is the failed test example
+2020-07-31 13:46:53.348 [TestNG-test=Test Reporting, Logging and TestNG demo-1] DEBUG TestLogger - Some debug info
+2020-07-31 13:46:53.348 [TestNG-test=Test Reporting, Logging and TestNG demo-1] ERROR TestLogger - Some error
+2020-07-31 13:46:53.356 [TestNG-test=Test Reporting, Logging and TestNG demo-2] INFO  TestReporting - This is is the passed test example
+2020-07-31 13:49:20.247 [TestNG-test=Test Reporting, Logging and TestNG demo-1] INFO  TestLogger - Some info
+2020-07-31 13:49:20.247 [TestNG-test=Test Reporting, Logging and TestNG demo-2] ERROR TestReporting - This is is the failed test example
+2020-07-31 13:49:20.250 [TestNG-test=Test Reporting, Logging and TestNG demo-1] DEBUG TestLogger - Some debug info
+2020-07-31 13:49:20.250 [TestNG-test=Test Reporting, Logging and TestNG demo-1] ERROR TestLogger - Some error
+2020-07-31 13:49:20.258 [TestNG-test=Test Reporting, Logging and TestNG demo-2] INFO  TestReporting - This is is the passed test example
